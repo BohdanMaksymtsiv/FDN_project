@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../scss/styles.scss"
+	],
+	"sourcesContent": [
+		"body{\r\n  margin: 0;\r\n\r\n  &.test{\r\n    font-size: 12px;\r\n  }\r\n}\r\n.new{\r\n  line-height: 12px;\r\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAA;EACF,MAAM,EAAE,CAAC,GAKV;EAND,AAGE,IAHE,AAGD,KAAK,CAAA;IACJ,SAAS,EAAE,IAAI,GAChB;;AAEH,AAAA,IAAI,CAAA;EACF,WAAW,EAAE,IAAI,GAClB"
+}
